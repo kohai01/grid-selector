@@ -1,3 +1,6 @@
 [submodule "marbastlib"]
 	path = marbastlib
 	url = https://github.com/ebastler/marbastlib
+[submodule "RP_Silicon_KiCad"]
+	path = RP_Silicon_KiCad
+	url = https://github.com/HeadBoffin/RP_Silicon_KiCad
