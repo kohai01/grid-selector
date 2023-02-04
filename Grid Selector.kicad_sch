@@ -2011,7 +2011,7 @@
     (uuid 3a4de697-ff09-4113-abdb-fad2a038151e)
     (property "Reference" "U1" (id 0) (at 259.715 17.145 0))
     (property "Value" "Pico" (id 1) (at 259.715 19.685 0))
-    (property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH" (id 2) (at 259.715 49.53 90)
+    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (id 2) (at 259.715 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 259.715 49.53 0)
@@ -3673,7 +3673,7 @@
       (reference "SW30") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/3a4de697-ff09-4113-abdb-fad2a038151e"
-      (reference "U1") (unit 1) (value "Pico") (footprint "RPi_Pico:RPi_Pico_SMD_TH")
+      (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
     )
   )
 )
